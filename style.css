@@ -1,0 +1,12 @@
+body { background: #b7ba18; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 53px; display: flex; }
+.block-cache-0 { color: #38638f; font-size: 21px; margin-bottom: 5px; }
+.block-notify-1 { color: #8fc24a; font-size: 21px; margin-bottom: 5px; }
+.block-cluster-2 { color: #d69618; font-size: 20px; margin-bottom: 5px; }
+.block-config-3 { color: #188e7c; font-size: 12px; margin-bottom: 5px; }
+.block-cache-4 { color: #13dc38; font-size: 20px; margin-bottom: 5px; }
+.block-cluster-5 { color: #cdb030; font-size: 15px; margin-bottom: 5px; }
+.block-metrics-6 { color: #8c4e70; font-size: 14px; margin-bottom: 5px; }
+.block-config-7 { color: #3852ad; font-size: 20px; margin-bottom: 5px; }
+.block-database-8 { color: #22583a; font-size: 19px; margin-bottom: 5px; }
+.block-router-9 { color: #d69b97; font-size: 12px; margin-bottom: 5px; }
